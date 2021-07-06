@@ -1,3 +1,10 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
 h1{
     color: steelblue;
+    font-size: 60px;
+}
+name{
+    font-style: italic;
 }
